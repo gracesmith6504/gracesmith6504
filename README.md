@@ -4,11 +4,11 @@
 
 <br>
 
-- 😊 I’m @MikeTeachesCode, creator of [Holistic Coding](https://www.holisticcoding.com)
+- 😊 I’m @gracesmith6504
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Blender, Godot and React
 - 💞️ I’m looking to work as a full stack developer
-- 📫 How to reach me at my [LinkedIn profile](https://www.linkedin.com/in/michael-russell-155953a6/)
+- 📫 How to reach me at my [LinkedIn profile](www.linkedin.com/in/grace-smith-1a7798201)
 
 ```python
 
@@ -59,7 +59,7 @@ if fave_language:
 - Collaboration on projects
 - Remote work 
 - Full Stack roles
-
+<!-- 
 ## My Links
 <p align="left">
   <a href="https://github.com/MikeTeachesCode/MikeTeachesCode">
@@ -88,7 +88,7 @@ if fave_language:
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miketeachescode&layout=compact&theme=blue-green)
 
-
+ -->
 ## 😂 Random joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
