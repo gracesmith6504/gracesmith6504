@@ -8,7 +8,6 @@
 - 👀 I’m interested in web development and artificial intelligence 
 - 🌱 I’m currently learning Java, Python and Assembly
 - 💞️ I’m looking to work as a full stack developer
-- 📫 How to reach me at my [LinkedIn profile](www.linkedin.com/in/grace-smith-1a7798201)
 
 ```python
 
