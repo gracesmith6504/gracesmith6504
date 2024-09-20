@@ -28,12 +28,9 @@ if fave_language:
     - CLI apps
     - Mobile apps
     - Web apps
-- Flask
-- React
+      
 - JavaScript, CSS and HTML
-- PostgreSQL
 - SQLite
-- SQLAlchemy
 
 ## Languages
 
@@ -41,17 +38,14 @@ if fave_language:
     
     - Python
     - CSS
-    - JavaScript
+    - Java
     - HTML
     - SQL
-        - PostgreSQL
-        - SQLALchemy
-        - MySQL
+    
  </details>
 
 ## Looking for
 - Collaboration on projects
-- Full Stack roles
 - Internships
 
  -->
