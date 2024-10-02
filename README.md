@@ -25,6 +25,7 @@ if fave_language:
     - Java
     - HTML
     - CSS
+    -Assembly
     
  </details>
 
