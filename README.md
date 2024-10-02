@@ -5,9 +5,9 @@
 <br>
 
 - 😊 I’m @gracesmith6504
-- 👀 I’m interested in web development and artificial intelligence 
+- 👀 I’m interested in all things tech! 
 - 🌱 I’m currently learning Java, Python and Assembly
-- 💞️ I’m looking to work as a full stack developer
+- 💞️ I’m looking to work as an intern
 
 ```python
 
@@ -17,29 +17,14 @@ if fave_language:
     print("Python!")
 ```
 
- 
-## Skill Set 
-
-- Python
-
-    - PyPI packages
-    - GUI apps
-    - CLI apps
-    - Mobile apps
-    - Web apps
-      
-- JavaScript, CSS and HTML
-- SQLite
-
 ## Languages
 
 <details><summary>Dropdown list of languages I use: </summary>
     
     - Python
-    - CSS
     - Java
     - HTML
-    - SQL
+    - CSS
     
  </details>
 
