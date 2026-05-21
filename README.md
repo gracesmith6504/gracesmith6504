@@ -7,7 +7,6 @@
 - 😊 I’m @gracesmith6504
 - 👀 I’m interested in all things tech! 
 - 🌱 I’m currently learning Java, Python and C++
-- 💞️ I’m looking to work as an intern
 
 ```python
 
