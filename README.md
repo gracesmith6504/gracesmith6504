@@ -1,40 +1,20 @@
-## Hi there 👋
+# Grace Smith
 
-<img src="https://www.freecodecamp.org/news/content/images/2021/08/chris-ried-ieic5Tq8YMk-unsplash.jpg" width="150" height="150" alt="ALTERNATIVE_TEXT" />
+Computer Science & Business Studies student at Trinity College Dublin.
+Generation Google Scholar · Trinity LaunchBox 
 
-<br>
+## What I Build
 
-- 😊 I’m @gracesmith6504
-- 👀 I’m interested in all things tech! 
-- 🌱 I’m currently learning Java, Python and C++
+- Full-stack web apps (React, Next.js, TypeScript, Supabase)
+- Backend APIs and cloud infrastructure (AWS DynamoDB, Cognito, MCP)
+- AI and automation tools for education and business clients
 
-```python
+## Projects
 
-fave_language = True
+- [ErasMatch](https://erasmatch.com) - Erasmus student matching platform with 500+ users
+- [OurSafeBase](https://oursafebase.com) - Student event safety tool, 2nd place ZEEUS Social Impact Hackathon 2025
+- [DynamoDB University](https://github.com/gracesmith6504/dynamodb-university) - AI-driven DynamoDB learning platform built for Amazon Development Centre Ireland
 
-if fave_language:
-    print("Python!")
-```
+## Connect
 
-## Languages
-
-<details><summary>Dropdown list of languages I use: </summary>
-    
-    - Python
-    - Java
-    - HTML
-    - CSS
-    - C++
-    
- </details>
-
-## Looking for
-- Collaboration on projects
-- Internships
-
- -->
-## 😂 Random joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-
+[LinkedIn](https://www.linkedin.com/in/grace123smith/)
