@@ -12,6 +12,7 @@ AI Engineering Intern at Red Hat. Generation Google Scholar. Trinity LaunchBox.
 ## Projects
 
 - [Agenix](https://github.com/gracesmith6504/Agenix) — Kubernetes operator in Go that automates cryptographic identity for AI agents. Built at Red Hat. ~4,660 lines across 5 merged PRs, reviewed all 8 teammate PRs.
+- [Kagenti Operator](https://github.com/kagenti/kagenti-operator/pull/444) — Fixed an RBAC bug in Red Hat's open-source Kagenti project (275+ stars). Missing list/watch verbs caused the webhook's informer cache to hang and reject pod creation.
 - [ErasMatch](https://erasmatch.com) — Erasmus student matching platform with 800+ users and real-time messaging
 - [OurSafeBase](https://oursafebase.com) — Student event safety platform, 2nd place ZEEUS Social Impact Hackathon
 - [PREHAB](https://github.com/gracesmith6504/prehabFrontend) — AI-powered injury prevention for female athletes, built at Hack Europe 2026
