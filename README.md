@@ -5,12 +5,13 @@ AI Engineering Intern at Red Hat. Generation Google Scholar. Trinity LaunchBox.
 
 ## What I Build
 
+- Kubernetes operators and AI agent infrastructure (Go, Kubebuilder, OpenShift)
 - Full-stack web apps (React, Next.js, TypeScript, Supabase)
-- Backend APIs and cloud infrastructure (AWS, Kubernetes, OpenShift)
-- AI agent infrastructure and automation (Python, Go, MCP)
+- Backend APIs and cloud infrastructure (AWS, Kubernetes, Python)
 
 ## Projects
 
+- [Agenix](https://github.com/gracesmith6504/Agenix) — Kubernetes operator in Go that automates cryptographic identity for AI agents. Built at Red Hat. ~4,660 lines across 5 merged PRs, reviewed all 8 teammate PRs.
 - [ErasMatch](https://erasmatch.com) — Erasmus student matching platform with 800+ users and real-time messaging
 - [OurSafeBase](https://oursafebase.com) — Student event safety platform, 2nd place ZEEUS Social Impact Hackathon
 - [PREHAB](https://github.com/gracesmith6504/prehabFrontend) — AI-powered injury prevention for female athletes, built at Hack Europe 2026
